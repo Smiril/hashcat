@@ -21,5 +21,4 @@ modules/*.so
 obj/*/*/*.o
 obj/*.o
 obj/*.a
-include/CL
 tools/luks_tests
